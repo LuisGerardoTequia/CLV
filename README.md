@@ -4,3 +4,4 @@ El proyecto CLV tiene como objetivo medir y analizar el valor económico de los 
 
 El pipeline integra, limpia y consolida la información a nivel de cliente, periodo y línea de producto, asegurando consistencia y evitando duplicaciones en métricas clave como ingresos y RGU. Como resultado, se genera un dataset analítico con indicadores como facturación, cantidad de productos, antigüedad y convergencia, que permite identificar clientes de alto valor, detectar riesgos de churn y encontrar oportunidades de upselling o cross-selling, además de servir como base para modelos predictivos y análisis avanzados.
 
+ ![Roadmap Clasificacion de Clientes](https://github.com/LuisGerardoTequia/CLV/blob/main/CLV.png)
